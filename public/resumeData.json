@@ -1,0 +1,152 @@
+{
+  "main": {
+    "name":"Levi Clark",
+    "occupation":"Student",
+    "description":"I'm a Computer Science Major at The University of Kansas. I'm currently looking for a position as a Software Engineer. My professional experience is mainly with Front-End work, but I'm always willing and excited to learn new skills",
+    "image":"profilepic.jpg",
+    "bio":"I grew up on a pig farm in LaCygne, Kansas. I didn't have much experience with programming when I got to college, as I originally wanted to go for Computer Animation, so I got pretty lucky when I realized I loved it and it was a much more practical career to pursue. When I'm not busy with school, I'm probably hanging out with my Fiancee (I'm getting married in June!) and our two dogs, Tofu and Jenny. My Fiancee and I are both pretty big into fitness (we actually met at the KU Rec Center), so we enjoy working out together. I also recently got into Warhammer Tabletop. I enjoy the painting side of the hobby the most, as it's a nice relaxing hobby after a long day.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "levitclark1995@gmail.com",
+    "phone": "785-840-6453",
+    "address":{
+      "street":"1410 West 19th Terrace",
+      "city":"Lawrence",
+      "state":"Kansas",
+      "zip": "66046"
+    },
+    "website": "http://www.leviclark.com",
+    "resumedownload":"http://leviclark.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/levi.clark.54?ref=bookmarks",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/levi-clark-406976149/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/clarklevi",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/LeviClark",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"University of Kansas",
+        "degree":"Computer Science",
+        "graduated":"May 2019",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"Red Nova Labs",
+        "title":"Software Engineer Intern ",
+        "years":"May 2018 - January 2019",
+        "description":"Worked with the web development team on the storEdge product. Gained full stack knowledge while working with React.js, Node.js, MongoDB, HTML/CSS, and RESTful API's."
+      }
+    ],
+    "skills":[
+      {
+        "name":"JavaScript",
+        "level":"80%"
+      },
+      {
+        "name":"C++",
+        "level":"80%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"75%"
+      },
+      {
+        "name":"CSS",
+        "level":"70%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"NodeJs",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"60%"
+      },
+      {
+        "name":"Git",
+        "level":"80%"
+      },
+      {
+        "name":"Haskell",
+        "level":"50%"
+      },
+      {
+        "name":"Agile Development Practices",
+        "level":"100%"
+      },
+      {
+        "name":"Jira",
+        "level":"90%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
