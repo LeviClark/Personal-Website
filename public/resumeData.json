@@ -1,27 +1,22 @@
 {
   "main": {
     "name":"Levi Clark",
-    "occupation":"Student",
-    "description":"I'm a Computer Science Major at The University of Kansas. I'm currently looking for a position as a Software Engineer. My professional experience is mainly with Front-End work, but I'm always willing and excited to learn new skills",
+    "occupation":"Software Engineer",
+    "description":"I'm a Software Engineer at i3 in Huntsville, Alabama",
     "image":"profilepic.jpg",
-    "bio":"I grew up on a pig farm in LaCygne, Kansas. I didn't have much experience with programming when I got to college, as I originally wanted to go for Computer Animation, so I got pretty lucky when I realized I loved it and it was a much more practical career to pursue. When I'm not busy with school, I'm probably hanging out with my Fiancee (I'm getting married in June!) and our two dogs, Tofu and Jenny. My Fiancee and I are both pretty big into fitness (we actually met at the KU Rec Center), so we enjoy working out together. I also recently got into Warhammer Tabletop. I enjoy the painting side of the hobby the most, as it's a nice relaxing hobby after a long day.",
+    "bio":"I grew up on a pig farm in LaCygne, Kansas. I didn't have much experience with programming when I got to college (there aren't many programming classes offered in small town high school), so I got pretty lucky when I realized how much I enjoy it. I'm currently working as a software engineer at i3 in Huntsville, Alabama. At i3, we contract with the military and help create training apps for new pilots in the Army. When I'm not busy with work, I'm probably hanging out with my Wife (Jessica), and our two dogs, Tofu and Jenny. We're also excited to announce that we are expecting in May 2020!",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "levitclark1995@gmail.com",
     "phone": "785-840-6453",
     "address":{
-      "street":"1410 West 19th Terrace",
-      "city":"Lawrence",
-      "state":"Kansas",
-      "zip": "66046"
+      "street":"1832 Clayton Cove Dr NW",
+      "city":"Madison",
+      "state":"Alabama",
+      "zip": "35757"
     },
     "website": "http://www.leviclark.com",
     "resumedownload":"http://leviclark.com",
     "social":[
-      {
-        "name":"facebook",
-        "url":"https://www.facebook.com/levi.clark.54?ref=bookmarks",
-        "className":"fa fa-facebook"
-      },
       {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/levi-clark-406976149/",
@@ -58,6 +53,18 @@
     ],
     "skills":[
       {
+        "name":"C#",
+        "level":"70%"
+      },
+      {
+        "name":"Ruby/Rails",
+        "level":"70%"
+      },
+      {
+        "name":"SQL",
+        "level":"70%"
+      },
+      {
         "name":"JavaScript",
         "level":"80%"
       },
@@ -88,10 +95,6 @@
       {
         "name":"Git",
         "level":"80%"
-      },
-      {
-        "name":"Haskell",
-        "level":"50%"
       },
       {
         "name":"Agile Development Practices",
